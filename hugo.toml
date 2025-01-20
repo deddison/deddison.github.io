@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'Blarg'
 theme = 'diary'
 module.mounts
-  source = '/Users/davideddison/Home/Journal/Posts'
-  target = 'content/Users/davideddison/Hugo/blarg/content'
+source = '/Users/davideddison/Home/Journal/Posts'
+target = '/Users/davideddison/Hugo/blarg/content'
