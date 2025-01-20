@@ -4,5 +4,5 @@ title = 'Blarg'
 theme = 'diary'
 [module]
 [module.mounts]
-  source = '/Users/davideddison/Home/Journal/Posts'
+  source = '/Users/davideddison/Home/Journal/Posts/'
   target = 'content'

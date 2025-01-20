@@ -1,13 +1,42 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:49613/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Blarg</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blarg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jan 2025 16:31:51 +0300</lastBuildDate>
     
-        <atom:link href="http://localhost:49613/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Untitled 1</title>
+        <link>http://localhost:1313/clarpsy/</link>
+        <pubDate>Mon, 20 Jan 2025 16:31:51 +0300</pubDate>
+        
+        <guid>http://localhost:1313/clarpsy/</guid>
+        <description>Blarg http://localhost:1313/clarpsy/ -&lt;p&gt;His eggplants were the worst.  I didn&amp;rsquo;t like them.&lt;/p&gt;
+- http://localhost:1313/clarpsy/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Untitled 1</title>
+        <link>http://localhost:1313/sharlacks/</link>
+        <pubDate>Mon, 20 Jan 2025 15:56:14 +0300</pubDate>
+        
+        <guid>http://localhost:1313/sharlacks/</guid>
+        <description>Blarg http://localhost:1313/sharlacks/ -&lt;p&gt;It&amp;rsquo;s another test and I hope it works this time.&lt;/p&gt;
+- http://localhost:1313/sharlacks/ - </description>
+        </item>
+    
+    
+    
+    
     
     
   </channel>
