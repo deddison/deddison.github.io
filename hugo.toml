@@ -5,4 +5,4 @@ theme = 'diary'
 [module]
 [module.mounts]
   source = '/Users/davideddison/Home/Journal/Posts'
-  target = '/Users/davideddison/Hugo/blarg/content'
+  target = 'content'
