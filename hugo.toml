@@ -2,6 +2,7 @@ baseURL = 'https://deddison.github.io/'
 languageCode = 'en-us'
 title = 'Blarg'
 theme = 'diary'
-module.mounts
-source = '/Users/davideddison/Home/Journal/Posts'
-target = '/Users/davideddison/Hugo/blarg/content'
+[module]
+[module.mounts]
+  source = '/Users/davideddison/Home/Journal/Posts'
+  target = '/Users/davideddison/Hugo/blarg/content'
